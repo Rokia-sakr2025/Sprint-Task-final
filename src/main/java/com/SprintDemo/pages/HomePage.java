@@ -1,8 +1,5 @@
 package com.SprintDemo.pages;
-import com.SprintDemo.utilites.BrowserActions;
-import com.SprintDemo.utilites.LogsUtil;
-import com.SprintDemo.utilites.Validations;
-import com.SprintDemo.utilites.elementActions;
+import com.SprintDemo.utilites.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -26,13 +23,15 @@ public class HomePage {
     public  HomePage  SearchForProduct(String searchKey)
     {
         elementActions.sendData(driver,SearchTextBox , searchKey);
-        elementActions.ClickByJavaScript(driver,searchButton);
-     //   elementActions.clickElement(driver,searchButton);
+     //   elementActions.ClickByJavaScript(driver,searchButton);
+        wait.WaitForElementClickable(driver,searchButton);
+        elementActions.clickElement(driver,searchButton);
         LogsUtil.info("search key ",searchKey, "should be displayed now ");
         return this;
     }
  public HomePage checkSuccessfulsearch(String searchresult)
   {
+      wait.WaitForElementVisible(driver,SearchResult);
       WebElement result = driver.findElement(SearchResult);
       String resultvalue =result.getAttribute("alt");
       Assert.assertTrue(resultvalue.contains(searchresult));
