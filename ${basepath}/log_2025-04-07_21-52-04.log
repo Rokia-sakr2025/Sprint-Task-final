@@ -1,0 +1,16 @@
+[INFO] - [07-04-2025 21:52:11] [main] [org.testng.internal.Utils] [TestNG] Running:
+  C:\Users\rsakr\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+[INFO] - [07-04-2025 21:52:34] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [07-04-2025 21:52:34] [main] [com.Sprint.tests.AddItemToTheCartTest] driver is intialised now 
+[INFO] - [07-04-2025 21:52:42] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [07-04-2025 21:52:52] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: img[alt='Marco Lightweight Active Hoodie']button  should be clicked now
+[INFO] - [07-04-2025 21:53:00] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-size-143-item-168button  should be clicked now
+[INFO] - [07-04-2025 21:53:03] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-color-93-item-50button  should be clicked now
+[INFO] - [07-04-2025 21:53:04] [main] [com.SprintDemo.utilites.elementActions] By.id: product-addtocart-buttonbutton  should be clicked now
+[INFO] - [07-04-2025 21:53:04] [main] [com.SprintDemo.pages.AddItemPage] Item should be added now 
+[INFO] - [07-04-2025 21:53:04] [main] [com.SprintDemo.utilites.Scrolling] page should be scrolled up now 
+[INFO] - [07-04-2025 21:53:07] [main] [com.SprintDemo.pages.AddItemPage] actual displayed messaged is You added Marco Lightweight Active Hoodie to your shopping cart.
+[INFO] - [07-04-2025 21:53:07] [main] [com.SprintDemo.pages.AddItemPage] item added sucessfully
+[INFO] - [07-04-2025 21:53:07] [main] [com.Sprint.tests.AddItemToTheCartTest] item should be added to card now 
+[INFO] - [07-04-2025 21:53:10] [main] [com.Sprint.tests.AddItemToTheCartTest] the driver is closed successfully 

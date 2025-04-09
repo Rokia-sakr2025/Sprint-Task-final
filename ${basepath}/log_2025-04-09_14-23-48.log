@@ -1,0 +1,82 @@
+[INFO] - [09-04-2025 14:23:48] [main] [org.testng.internal.Utils] [TestNG] Running:
+  D:\Sprint task\practiseAutomationProject\testng.xml
+
+[INFO] - [09-04-2025 14:23:50] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [09-04-2025 14:23:54] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [09-04-2025 14:23:55] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [09-04-2025 14:23:55] [main] [com.Sprint.tests.AddItemToTheCartTest] driver is intialised now 
+[INFO] - [09-04-2025 14:23:59] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [09-04-2025 14:24:00] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: img[alt='Marco Lightweight Active Hoodie']button  should be clicked now
+[INFO] - [09-04-2025 14:24:00] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-size-143-item-168button  should be clicked now
+[INFO] - [09-04-2025 14:24:01] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-color-93-item-50button  should be clicked now
+[INFO] - [09-04-2025 14:24:01] [main] [com.SprintDemo.utilites.elementActions] By.id: product-addtocart-buttonbutton  should be clicked now
+[INFO] - [09-04-2025 14:24:01] [main] [com.SprintDemo.pages.AddItemPage] Item should be added now 
+[INFO] - [09-04-2025 14:24:01] [main] [com.SprintDemo.utilites.Scrolling] page should be scrolled up now 
+[INFO] - [09-04-2025 14:24:02] [main] [com.SprintDemo.pages.AddItemPage] actual displayed messaged is You added Marco Lightweight Active Hoodie to your shopping cart.
+[INFO] - [09-04-2025 14:24:02] [main] [com.SprintDemo.pages.AddItemPage] item added sucessfully
+[INFO] - [09-04-2025 14:24:02] [main] [com.Sprint.tests.AddItemToTheCartTest] item should be added to card now 
+[INFO] - [09-04-2025 14:24:03] [main] [com.Sprint.tests.AddItemToTheCartTest] the driver is closed successfully 
+[INFO] - [09-04-2025 14:24:04] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [09-04-2025 14:24:04] [main] [com.Sprint.tests.AddItemToTheCartTest] driver is intialised now 
+[INFO] - [09-04-2025 14:24:08] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [09-04-2025 14:24:09] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: img[alt='Marco Lightweight Active Hoodie']button  should be clicked now
+[INFO] - [09-04-2025 14:24:09] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-color-93-item-50button  should be clicked now
+[INFO] - [09-04-2025 14:24:09] [main] [com.SprintDemo.utilites.elementActions] By.id: product-addtocart-buttonbutton  should be clicked now
+[INFO] - [09-04-2025 14:24:10] [main] [com.Sprint.tests.AddItemToTheCartTest] the driver is closed successfully 
+[INFO] - [09-04-2025 14:24:10] [main] [com.SprintDemo.utilites.elementActions] data is send to Selene Yoga Hoodie
+[INFO] - [09-04-2025 14:24:13] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [09-04-2025 14:24:13] [main] [com.Sprint.tests.AddItemToTheCartTest] driver is intialised now 
+[INFO] - [09-04-2025 14:24:16] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [09-04-2025 14:24:18] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: img[alt='Marco Lightweight Active Hoodie']button  should be clicked now
+[INFO] - [09-04-2025 14:24:18] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-size-143-item-168button  should be clicked now
+[INFO] - [09-04-2025 14:24:18] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-color-93-item-50button  should be clicked now
+[INFO] - [09-04-2025 14:24:18] [main] [com.SprintDemo.utilites.elementActions] By.id: product-addtocart-buttonbutton  should be clicked now
+[INFO] - [09-04-2025 14:24:18] [main] [com.SprintDemo.pages.AddItemPage] Item should be added now 
+[INFO] - [09-04-2025 14:24:21] [main] [com.SprintDemo.pages.AddItemPage] now counter is displayed now 
+[INFO] - [09-04-2025 14:24:21] [main] [com.SprintDemo.utilites.elementActions] By.xpath: //a[@class='action showcart']button  should be clicked now
+[INFO] - [09-04-2025 14:24:23] [main] [com.SprintDemo.utilites.elementActions] By.xpath: //button[@id='top-cart-btn-checkout']button  should be clicked now
+[INFO] - [09-04-2025 14:24:24] [main] [com.SprintDemo.utilites.elementActions] data is send to data-test@outlook.com
+[INFO] - [09-04-2025 14:24:24] [main] [com.SprintDemo.utilites.elementActions] data is send to nada
+[INFO] - [09-04-2025 14:24:24] [main] [com.SprintDemo.utilites.elementActions] data is send to ali
+[INFO] - [09-04-2025 14:24:24] [main] [com.SprintDemo.utilites.elementActions] data is send to maxab
+[INFO] - [09-04-2025 14:24:25] [main] [com.SprintDemo.utilites.elementActions] data is send to cairo
+[INFO] - [09-04-2025 14:24:25] [main] [com.SprintDemo.utilites.elementActions] data is send to egypt
+[INFO] - [09-04-2025 14:24:25] [main] [com.SprintDemo.utilites.elementActions] data is send to new cairo
+[INFO] - [09-04-2025 14:24:25] [main] [com.SprintDemo.utilites.elementActions] data is send to egypt
+[INFO] - [09-04-2025 14:24:25] [main] [com.SprintDemo.utilites.elementActions] data is send to Alaska
+[INFO] - [09-04-2025 14:24:25] [main] [com.SprintDemo.utilites.elementActions] data is send to T1234
+[INFO] - [09-04-2025 14:24:25] [main] [com.SprintDemo.utilites.elementActions] data is send to 67889.0
+[INFO] - [09-04-2025 14:24:25] [main] [com.SprintDemo.pages.AddItemPage] now all valide data is entered
+[INFO] - [09-04-2025 14:24:25] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: .button.action.continue.primarybutton  should be clicked now
+[INFO] - [09-04-2025 14:24:28] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: .button.action.continue.primarybutton  should be clicked now
+[INFO] - [09-04-2025 14:24:30] [main] [com.SprintDemo.pages.AddItemPage] Expected  message is Thank you for your purchase!
+[INFO] - [09-04-2025 14:24:30] [main] [com.SprintDemo.pages.AddItemPage] Actual  message is Checkout
+[INFO] - [09-04-2025 14:24:30] [main] [com.Sprint.tests.AddItemToTheCartTest] the driver is closed successfully 
+[INFO] - [09-04-2025 14:24:32] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [09-04-2025 14:24:32] [main] [com.Sprint.tests.AddItemToTheCartTest] driver is intialised now 
+[INFO] - [09-04-2025 14:24:35] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [09-04-2025 14:24:36] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: img[alt='Marco Lightweight Active Hoodie']button  should be clicked now
+[INFO] - [09-04-2025 14:24:36] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-size-143-item-168button  should be clicked now
+[INFO] - [09-04-2025 14:24:36] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-color-93-item-50button  should be clicked now
+[INFO] - [09-04-2025 14:24:36] [main] [com.SprintDemo.utilites.elementActions] By.id: product-addtocart-buttonbutton  should be clicked now
+[INFO] - [09-04-2025 14:24:36] [main] [com.SprintDemo.pages.AddItemPage] Item should be added now 
+[INFO] - [09-04-2025 14:24:39] [main] [com.SprintDemo.pages.AddItemPage] now counter is displayed now 
+[INFO] - [09-04-2025 14:24:40] [main] [com.SprintDemo.utilites.elementActions] By.xpath: //a[@class='action showcart']button  should be clicked now
+[INFO] - [09-04-2025 14:24:42] [main] [com.SprintDemo.utilites.elementActions] By.xpath: //button[@id='top-cart-btn-checkout']button  should be clicked now
+[INFO] - [09-04-2025 14:24:42] [main] [com.SprintDemo.utilites.elementActions] data is send to test-allure@gmail.com
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to hoda
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to sakr
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to cegedim
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to new cairo
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to egypt
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to tanta
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to banha
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to Alaska
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to y768
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] data is send to 900988.0
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.pages.AddItemPage] now all valide data is entered
+[INFO] - [09-04-2025 14:24:43] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: .button.action.continue.primarybutton  should be clicked now
+[INFO] - [09-04-2025 14:24:46] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: .button.action.continue.primarybutton  should be clicked now
+[INFO] - [09-04-2025 14:24:48] [main] [com.SprintDemo.pages.AddItemPage] Expected  message is Thank you for your purchase!
+[INFO] - [09-04-2025 14:24:48] [main] [com.SprintDemo.pages.AddItemPage] Actual  message is Checkout
+[INFO] - [09-04-2025 14:24:48] [main] [com.Sprint.tests.AddItemToTheCartTest] the driver is closed successfully 

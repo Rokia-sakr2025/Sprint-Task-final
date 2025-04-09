@@ -1,0 +1,7 @@
+[INFO] - [09-04-2025 09:09:51] [main] [org.testng.internal.Utils] [TestNG] Running:
+  C:\Users\rsakr\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+[INFO] - [09-04-2025 09:09:52] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [09-04-2025 09:09:52] [main] [com.Sprint.tests.AddItemToTheCartTest] driver is intialised now 
+[INFO] - [09-04-2025 09:09:55] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [09-04-2025 09:10:27] [main] [com.Sprint.tests.AddItemToTheCartTest] the driver is closed successfully 

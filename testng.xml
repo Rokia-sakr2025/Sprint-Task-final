@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite">
+	<test name="Regression Test" preserve-order="false">
+		<classes>
+			<class name="com.Sprint.tests.AddItemToTheCartTest" />
+			<class name="com.Sprint.tests.SearchProductTest" />
+		</classes>
+	</test>
+</suite> 

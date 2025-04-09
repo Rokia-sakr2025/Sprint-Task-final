@@ -1,0 +1,8 @@
+[INFO] - [09-04-2025 19:54:19] [main] [org.testng.internal.Utils] [TestNG] Running:
+  C:\Users\rsakr\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+[INFO] - [09-04-2025 19:54:21] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [09-04-2025 19:54:25] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [09-04-2025 19:54:25] [main] [com.SprintDemo.utilites.elementActions] data is send to Selene Yoga Hoodie
+[INFO] - [09-04-2025 19:54:27] [main] [com.SprintDemo.pages.HomePage] search key Selene Yoga Hoodieshould be displayed now 
+[INFO] - [09-04-2025 19:54:27] [main] [com.SprintDemo.pages.HomePage] hello ,successful search should be displayed now 

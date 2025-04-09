@@ -1,0 +1,22 @@
+[INFO] - [09-04-2025 14:21:16] [main] [org.testng.internal.Utils] [TestNG] Running:
+  D:\Sprint task\practiseAutomationProject\testng.xml
+
+[INFO] - [09-04-2025 14:21:17] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [09-04-2025 14:21:17] [main] [com.Sprint.tests.AddItemToTheCartTest] driver is intialised now 
+[INFO] - [09-04-2025 14:21:21] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [09-04-2025 14:21:22] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [09-04-2025 14:21:26] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [09-04-2025 14:21:27] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: img[alt='Marco Lightweight Active Hoodie']button  should be clicked now
+[INFO] - [09-04-2025 14:21:27] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-size-143-item-168button  should be clicked now
+[INFO] - [09-04-2025 14:21:27] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-color-93-item-50button  should be clicked now
+[INFO] - [09-04-2025 14:21:27] [main] [com.SprintDemo.utilites.elementActions] By.id: product-addtocart-buttonbutton  should be clicked now
+[INFO] - [09-04-2025 14:21:27] [main] [com.SprintDemo.pages.AddItemPage] Item should be added now 
+[INFO] - [09-04-2025 14:21:27] [main] [com.SprintDemo.utilites.Scrolling] page should be scrolled up now 
+[INFO] - [09-04-2025 14:21:29] [main] [com.SprintDemo.pages.AddItemPage] actual displayed messaged is You added Marco Lightweight Active Hoodie to your shopping cart.
+[INFO] - [09-04-2025 14:21:29] [main] [com.SprintDemo.pages.AddItemPage] item added sucessfully
+[INFO] - [09-04-2025 14:21:29] [main] [com.Sprint.tests.AddItemToTheCartTest] item should be added to card now 
+[INFO] - [09-04-2025 14:21:54] [main] [com.SprintDemo.utilites.elementActions] data is send to Selene Yoga Hoodie
+[INFO] - [09-04-2025 14:21:54] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: button[title='Search']button  should be clicked now
+[INFO] - [09-04-2025 14:21:54] [main] [com.SprintDemo.pages.HomePage] search key Selene Yoga Hoodieshould be displayed now 
+[INFO] - [09-04-2025 14:21:55] [main] [com.SprintDemo.pages.HomePage] hello ,successful search should be displayed now 
+[INFO] - [09-04-2025 14:21:56] [main] [com.Sprint.tests.AddItemToTheCartTest] the driver is closed successfully 

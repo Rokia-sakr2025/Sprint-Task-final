@@ -1,0 +1,30 @@
+[INFO] - [08-04-2025 15:56:08] [main] [org.testng.internal.Utils] [TestNG] Running:
+  C:\Users\rsakr\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+[INFO] - [08-04-2025 15:56:20] [main] [com.SprintDemo.drivers.DriverManager] driver created:chrome
+[INFO] - [08-04-2025 15:56:20] [main] [com.Sprint.tests.AddItemToTheCartTest] driver is intialised now 
+[INFO] - [08-04-2025 15:56:25] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [08-04-2025 15:56:36] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: img[alt='Marco Lightweight Active Hoodie']button  should be clicked now
+[INFO] - [08-04-2025 15:56:40] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-size-143-item-168button  should be clicked now
+[INFO] - [08-04-2025 15:56:41] [main] [com.SprintDemo.utilites.elementActions] By.id: option-label-color-93-item-50button  should be clicked now
+[INFO] - [08-04-2025 15:56:42] [main] [com.SprintDemo.utilites.elementActions] By.id: product-addtocart-buttonbutton  should be clicked now
+[INFO] - [08-04-2025 15:56:42] [main] [com.SprintDemo.pages.AddItemPage] Item should be added now 
+[INFO] - [08-04-2025 15:56:45] [main] [com.SprintDemo.pages.AddItemPage] now counter is displayed now 
+[INFO] - [08-04-2025 15:56:47] [main] [com.SprintDemo.utilites.elementActions] By.xpath: //a[@class='action showcart']button  should be clicked now
+[INFO] - [08-04-2025 15:56:50] [main] [com.SprintDemo.utilites.elementActions] By.xpath: //button[@id='top-cart-btn-checkout']button  should be clicked now
+[INFO] - [08-04-2025 15:56:59] [main] [com.SprintDemo.utilites.elementActions] data is send to data-test@outlook.com
+[INFO] - [08-04-2025 15:57:00] [main] [com.SprintDemo.utilites.elementActions] data is send to nada
+[INFO] - [08-04-2025 15:57:01] [main] [com.SprintDemo.utilites.elementActions] data is send to ali
+[INFO] - [08-04-2025 15:57:02] [main] [com.SprintDemo.utilites.elementActions] data is send to maxab
+[INFO] - [08-04-2025 15:57:03] [main] [com.SprintDemo.utilites.elementActions] data is send to cairo
+[INFO] - [08-04-2025 15:57:03] [main] [com.SprintDemo.utilites.elementActions] data is send to egypt
+[INFO] - [08-04-2025 15:57:04] [main] [com.SprintDemo.utilites.elementActions] data is send to new cairo
+[INFO] - [08-04-2025 15:57:05] [main] [com.SprintDemo.utilites.elementActions] data is send to egypt
+[INFO] - [08-04-2025 15:57:05] [main] [com.SprintDemo.utilites.elementActions] data is send to Alaska
+[INFO] - [08-04-2025 15:57:06] [main] [com.SprintDemo.utilites.elementActions] data is send to T1234
+[INFO] - [08-04-2025 15:57:07] [main] [com.SprintDemo.utilites.elementActions] data is send to 67889.0
+[INFO] - [08-04-2025 15:57:07] [main] [com.SprintDemo.pages.AddItemPage] now all valide data is entered
+[INFO] - [08-04-2025 15:57:07] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: .button.action.continue.primarybutton  should be clicked now
+[INFO] - [08-04-2025 15:57:11] [main] [com.SprintDemo.utilites.elementActions] By.cssSelector: .button.action.continue.primarybutton  should be clicked now
+[INFO] - [08-04-2025 15:57:17] [main] [com.SprintDemo.utilites.BrowserActions] URL now is https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html
+[INFO] - [08-04-2025 15:57:51] [main] [com.Sprint.tests.AddItemToTheCartTest] the driver is closed successfully 
