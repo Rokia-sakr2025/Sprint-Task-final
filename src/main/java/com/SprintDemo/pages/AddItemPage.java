@@ -43,6 +43,7 @@ public class AddItemPage {
     private  final  By Continue_Shopping=By.xpath("//a[@class='action primary continue']");
     private  final By Page_Title=By.xpath("//*[contains(text(), 'Thank you for your purchase!')]");
     private  final By Size_Required_Message=By.xpath("//div[contains(@id,'super_attribute')]");
+    private final By Color_Required_message=By.xpath("//div[contains(@id,'super_attribute')]");
 
 
 public AddItemPage AddItemToCard()
@@ -59,6 +60,20 @@ public AddItemPage AdditemToCardWithoutSize()
     elementActions.clickElement(driver,MArocoItem);
     elementActions.clickElement(driver,SelectBlueColor);
     elementActions.clickElement(driver,AddToCardBtn);
+    return this;
+
+}
+public  AddItemPage AdditemTocardWithoutcolor()
+{
+    elementActions.clickElement(driver,MArocoItem);
+    elementActions.clickElement(driver,selectMeduimSize);
+    elementActions.clickElement(driver,AddToCardBtn);
+    return this;
+
+}
+public AddItemPage AssertOncolorRequiredField(String message)
+{
+    Assert.assertTrue(elementActions.getText(driver,Color_Required_message).contains(message));
     return this;
 
 }

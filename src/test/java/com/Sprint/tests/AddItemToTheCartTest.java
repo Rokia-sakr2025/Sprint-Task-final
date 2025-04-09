@@ -45,7 +45,11 @@ public class AddItemToTheCartTest
     {
         new AddItemPage(driver).AdditemToCardWithoutSize().AssertOnSizeRequiredField(RequiredSizefeild);
     }
+  @Test
+   private  void AssertOnColorIsRequired(){
+      new AddItemPage(driver).AdditemTocardWithoutcolor().AssertOncolorRequiredField(RequiredSizefeild);
 
+}
     @DataProvider(name="ExcelData")
     public Object[][] userRegisterationData() throws IOException {
         //get data from excel reader
