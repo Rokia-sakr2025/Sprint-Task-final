@@ -28,7 +28,7 @@ public class AddItemToTheCartTest
     @BeforeMethod
     public void setUpdriver() {
         driver= DriverManager.createInstance("chrome");
-        LogsUtil.info("driver is intialised now ");
+        LogsUtil.info("driver should be intialised now ");
         new HomePage(driver).navigateToLoginPage();
 
     }
