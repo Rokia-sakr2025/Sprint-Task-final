@@ -17,7 +17,7 @@ public class AddItemToTheCartTest
     private WebDriver driver;
     String SucessfulMessage="You added Marco Lightweight Active Hoodie to your";
     String ThankYouMessage="Thank you for your purchase!";
-    File Allure_Result=new File("allure-results");
+    static File Allure_Result=new File("allure-results");
     String RequiredSizefeild="This is a required field.";
 
     @BeforeSuite
